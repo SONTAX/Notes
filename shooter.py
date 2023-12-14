@@ -67,6 +67,10 @@ enemy = Enemy("asteroid.png", 200, 60, 70, 70, 3)
 enemies.add(enemy)
 enemy = Enemy("asteroid.png", 450, 0, 70, 70, 3)
 enemies.add(enemy)
+enemy = Enemy("asteroid.png", 0, 0, 70, 70, 3)
+enemies.add(enemy)
+enemy = Enemy("asteroid.png", 600, 0, 70, 70, 3)
+enemies.add(enemy)
 
 bullets = sprite.Group()
 
